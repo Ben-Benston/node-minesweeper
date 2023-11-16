@@ -32,7 +32,7 @@ Minesweeper is a single-player puzzle game where the objective is to clear a rec
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/ben-benston/minesweeper-console.git
+   git clone https://github.com/ben-benston/node-minesweeper.git
    ```
 
 2. **Navigate to the Project Directory:**
